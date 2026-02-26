@@ -4,7 +4,7 @@ npm create vite@latest
 npm install ol --save
 ```
 
-### Instalar y configurar linter
+### Instalar y configurar lintera
 
 ```bash
 npm install standard -D
